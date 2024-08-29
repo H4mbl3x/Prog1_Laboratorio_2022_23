@@ -14,5 +14,7 @@ Componentes
     ./  
         - README.md -> Este fichero
 
-    ./doc -> Directorio con la Guía del Laboratorio, una Introducción a Java y los enunciados de los Assignments.
-    ./doc/Assignments -> Directorio con los enunciados de los Assignments.
+    ./doc -> Directorio con la Guía del Laboratorio, una Introducción a Java y los Enunciados de los Assignments.
+        ./doc/Assignments -> Directorio con los Enunciados de los Assignments.
+
+    ./src -> Directorio con el código fuente de los Assignments y sus respectivas soluciones.
