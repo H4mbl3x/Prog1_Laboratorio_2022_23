@@ -20,9 +20,9 @@ Componentes
     ./exam -> Directorio con el Enunciado, el Código Fuente y la Solución al Examen del Laboratorio.
 
     ./src -> Directorio con el código fuente de los Assignments y sus respectivas soluciones.
-        ./doc/Assignment1 -> Directorio con el Código Fuente del Assignment 1.
-        ./doc/Assignment2 -> Directorio con el Código Fuente del Assignment 2.
-        ./doc/Assignment3 -> Directorio con el Código Fuente del Assignment 3.
-        ./doc/Assignment4 -> Directorio con el Código Fuente del Assignment 4.
-        ./doc/Assignment5 -> Directorio con el Código Fuente del Assignment 5.
-        ./doc/Solutions -> Directorio con las Soluciones de los Assignments.
+        ./src/Assignment1 -> Directorio con el Código Fuente del Assignment 1.
+        ./src/Assignment2 -> Directorio con el Código Fuente del Assignment 2.
+        ./src/Assignment3 -> Directorio con el Código Fuente del Assignment 3.
+        ./src/Assignment4 -> Directorio con el Código Fuente del Assignment 4.
+        ./src/Assignment5 -> Directorio con el Código Fuente del Assignment 5.
+        ./src/Solutions -> Directorio con las Soluciones de los Assignments.
